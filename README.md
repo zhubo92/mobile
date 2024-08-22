@@ -1,14 +1,8 @@
 # mobile
 
-This template should help get you started developing with Vue 3 in Vite.
+Vue3 + Vite + Vant 4
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+移动端商城，卖桃的平台，http://maitao.shop，也是为了练手，这是前端项目，后端项目地址是 https://github.com/zhubo92/koa-server 。
 
 ## Project Setup
 
